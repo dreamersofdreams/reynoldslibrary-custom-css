@@ -1,0 +1,570 @@
+a {
+	color: #a32638;
+	
+}
+
+a:visited {
+	color: #a32638;
+}
+a:hover, a:focus, a:active {
+	color: #a32638;
+	text-decoration: underline;
+}
+
+h4 {
+	text-transform: none;
+}
+
+h5 {
+	font-size: 18px;
+	color: #999;
+}
+
+h6 {
+	font-size: 16px;
+	color: #999;
+}
+
+.wf-active .singular .entry-title {
+    font-weight: bold;
+}
+
+.wf-active h3 {
+    font-weight: bold;
+}
+.askus {
+	font-family: 'Fjalla One', sans-serif;
+
+}
+
+.askusfooter {
+	font-family: 'Fjalla One', sans-serif;
+	margin: 0px !important;
+
+}
+
+/* hide theme mobile menu */
+.main-navigation .menu-toggle {
+	display: none;
+}
+
+/*.entry-title {
+	display:none;
+} */
+
+
+.utility-container {
+	background-color: #a32638;
+}
+
+.main-navigation ul>li>a {
+	text-transform: none;
+}
+
+.no-sidebar .recent-posts-header, .no-sidebar .entry-meta, .no-sidebar .hentry, .no-sidebar .comments-area, .no-sidebar.singular .entry-title, .no-sidebar .post-navigation, .no-sidebar .posts-navigation, .no-sidebar .page-header {
+	max-width: 1200px;
+}
+
+#front-page-recent-posts {display:none;}
+
+.page-template-front-page .site-header {
+		margin-bottom: 0; 
+	}
+
+.site-header {
+	margin-bottom: 0;
+}
+
+.addmarginbottom {
+	margin-bottom: 20px;
+}
+
+.header-overlay {
+	display: none;
+}
+
+.slider-bg-frontpage {
+	padding-top: 0;
+}
+
+.site-info {
+	display:none;
+}
+
+.utility-container {
+	max-width: 1200px;
+	margin: 0 auto;
+	padding: 0 3.75em;
+	border-bottom: none;
+	color: rgba(255, 255, 255, 0.8);
+}
+
+.utility-container a {
+	color: rgba(255, 255, 255, 0.8);
+}
+
+.utility-container a:hover {
+	color: #fff;
+}
+
+.site-header .jetpack-social-navigation a {
+	color: rgba(255, 255, 255, 0.8);
+}
+
+.site-header .jetpack-social-navigation li {
+	margin-left: -20px;
+}
+
+.site-header .jetpack-social-navigation a:hover {
+    text-decoration: none;
+}
+
+.site-header .jetpack-social-navigation a:hover {
+	color: #fff;
+}
+
+.site-header .jetpack-social-navigation a:before {
+	
+	border-right: none;
+	
+}
+
+.utility-wrap {
+	background-color: #a32638;
+		
+}
+
+.row-topbar {
+	align-items: center!important;
+	justify-content: space-between!important;
+	display: flex;
+	flex-wrap: wrap;
+	
+}
+
+@media only screen and (max-width: 511px) {
+	.row-topbar {
+	align-items: center!important;
+	justify-content: center!important;
+	display: flex;
+	flex-wrap: wrap;
+	
+}}
+
+.col-auto {
+	flex: 0 0 auto;
+    width: auto;
+    max-width: none;
+	position:relative;
+}
+
+.col-auto p {
+	margin-bottom: 0;
+}
+
+.flipster {
+	font-family: 'Permanent Marker', cursive !important;
+}
+
+.flipster-p p {
+	line-height: 1.6 !important;
+	font-size: 16px;
+	margin-bottom: 1.3em;
+}
+/*
+@media screen and ( min-width: 50em ) {
+	.wp-block-group__inner-container {
+		padding: 0 3.75em;
+	}}
+		
+
+ .wp-block-group__inner-container {
+	 max-width: 1200px;
+	padding: 0 1.4em;
+	margin: 0 auto;
+}
+
+*/
+.wp-block-cover.alignfull .wp-block-cover__inner-container {
+    max-width: 1200px;
+	padding: 0 1.4em;
+	margin: 0 auto;
+}
+
+@media screen and ( min-width: 50em ) {
+	.wp-block-cover.alignfull .wp-block-cover__inner-container {
+		padding: 0 3.75em;
+	}}
+
+.flipstercarouselheader, .scrollfix {width: 100%;}
+
+.EBSCOcarouselContainer {width: 1px;min-width: 100%;}
+
+
+.workshoplist {
+	word-break:normal !important;
+}
+
+/* libcal customizations */
+#api_upc_cid568_567_566_iid79 {
+	
+	text-align: left;
+	margin-bottom: 15px;
+	
+}
+.libcal {
+	
+	font-family: 'Open Sans', sans-serif;
+	
+}
+.s-lc-ea-tb {
+	   /* background-color: #f0f2f8; */
+	padding-top: 2.14286rem !important;
+    padding-bottom: 2.14286rem !important;
+	padding-left: 25px !important;
+    padding-right: 25px !important;
+	margin-bottom: 1.5rem!important;
+	border-top: 1px solid;
+}
+
+.s-lc-ea-l {
+	font-size: 16px;
+	font-weight:300;
+	padding-right:20px;
+	font-family: 'Open Sans', sans-serif;
+	
+}
+	
+
+#api_upc_cid568_567_566_iid79 .s-lc-ea-tpre, .s-lc-ea-tcat, .s-lc-ea-h3 {
+	display: none;
+}
+
+
+#api_upc_cid568_567_566_iid79 {
+	border-radius: 10px
+}
+.s-lc-ea-treg a, .s-lc-ea-treg td a, s-lc-ea-l a, .s-lc-ea-tb a {
+	text-decoration: underline;
+	
+	
+}
+.s-lc-ea-treg a:hover, .s-lc-ea-treg td a:hover, s-lc-ea-l a:hover, .s-lc-ea-tb a:hover {
+	color: #000!important
+}
+
+#api_upc_cid568_567_566_iid79 .s-lc-ea-ttit {
+	font-size:16px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+#api_upc_cid568_567_566_iid79 .s-lc-ea-ttim, .s-lc-ea-tdat, .s-lc-ea-tloc, .tcam {
+	font-size:16px;
+	font-family: 'Fjalla One', sans-serif;
+}
+
+.s-lc-ea-tdes  {
+	vertical-align:top;
+}
+
+.red {
+	color: darkred;
+	font-weight: bold;
+	font-size: 1.4em;
+	margin-left: 1em;
+}
+.s-lc-ea-noe {
+	font-size: 1.6em;
+	margin: .5em;
+}
+.black {
+	color: black!important
+}
+
+.hours-today {
+	width: 250px !important;
+    max-width: 100%;
+}
+
+.hours-col-loc {
+	text-align: left !important;
+}
+
+/* end libcal */ 
+
+.site-footer {
+	border-top: none;
+}
+
+.staffcol {
+	font-size: 16px !important;
+}
+
+.libchatbutton {
+	text-align: center;
+}
+
+.liasonprofile {
+  padding:20px;
+}
+
+/* reserves page custom */
+
+.input-group {
+position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-align: stretch;
+    align-items: stretch;	
+width:100% !important;
+}
+
+.input-group>.custom-file, .input-group>.custom-select, .input-group>.form-control {
+    position: relative;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    width: 1%;
+    margin-bottom: 0;
+}
+
+.float-right {
+    float: right!important;
+}
+
+
+/* buttons */
+
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"],
+.button,
+#infinite-handle span {
+	
+	background: #a32638;
+	
+}
+button:hover,
+input[type="button"]:hover,
+input[type="reset"]:hover,
+input[type="submit"]:hover,
+.button:hover,
+#infinite-handle span:hover {
+	background: #920f22;
+	
+}
+button:active, button:focus,
+input[type="button"]:active,
+input[type="button"]:focus,
+input[type="reset"]:active,
+input[type="reset"]:focus,
+input[type="submit"]:active,
+input[type="submit"]:focus,
+.button:active,
+.button:focus,
+#infinite-handle span:active,
+#infinite-handle span:focus {
+	background: #920f22;
+	
+}
+
+.home .alignfull, .no-sidebar .wp-block-group .alignfull {
+    position: relative;
+    min-width: 100vw;
+    margin-left: 50%;
+    left: -50vw;
+}
+
+.blog .alignfull, .no-sidebar .wp-block-group .alignfull {
+    position: relative;
+    min-width: 100vw;
+    margin-left: 50%;
+    left: -50vw;
+}
+
+.single .alignfull, .no-sidebar .wp-block-group .alignfull {
+    position: relative;
+    min-width: 100vw;
+    margin-left: 50%;
+    left: -50vw;
+}
+
+.archive .alignfull, .no-sidebar .wp-block-group .alignfull {
+    position: relative;
+    min-width: 100vw;
+    margin-left: 50%;
+    left: -50vw;
+}
+
+.error404 .alignfull, .no-sidebar .wp-block-group .alignfull {
+    position: relative;
+    min-width: 100vw;
+    margin-left: 50%;
+    left: -50vw;
+}
+
+
+.home .site-main {
+	margin: 0; 
+}
+
+/* for Page title edits */
+.singular .entry-title {
+    margin: 0;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+    font-size: 26px;
+    line-height: 1.2;
+    border-bottom: none;
+}
+
+.footer-widgets {
+		padding: 0 3.75em;
+	}
+
+.wp-block-cover, .wp-block-cover-image {
+    
+    min-height: 100px;
+}
+
+.footercol {
+	margin-bottom: 0;
+}
+
+.footercol2 {
+	align-items: center!important;
+}
+
+/* for contacts and libraries page so footer butts up against content area */
+
+#post-8051 {
+	margin-bottom: 0;
+}
+/* end footer adjust */
+
+/* background hover for Library of Things page */
+
+.libofthings {padding-top: 10px}
+
+.libofthings:hover {
+  background-color: #eeece8;
+   transition: all .4s ease;
+}
+
+.s-la-widget {
+	z-index: 9999;
+}
+
+.policymenucol {
+	z-index: 99;
+	margin-top: 20px;
+}
+
+.blog .content-area {
+    margin-top: 20px;
+}
+
+
+/* This is used to post an urgent message under the logo on the homepage: when not needed, keep the following code active. If you need to use it, hide the code below and the alert message will be displayed. The message can be edited by editing the home page */
+.alertmessage {
+	display:none;}
+
+/* end alert message code */ 
+
+
+/* The following are customizations for Catalog search box on home page */
+.list-inline-item {
+    display: inline-block !important;
+	padding-right: 20px;
+	font-size: 14px;
+}
+
+.list-inline {
+    padding-left: 0;
+    list-style: none;
+	margin:0;
+}
+
+.d-inline-block {
+	display: inline-block !important;
+}
+
+.catalogsearchtabs .wp-block-getwid-tabs__nav-link.ui-tabs-active {
+    border-color: #a32638;
+    background: #a32638;
+}
+
+.catalogsearchtabs .wp-block-getwid-tabs__nav-link.ui-tabs-active a {
+  color: #fff;
+	text-decoration: none;
+}
+
+.catalogsearchtabs .wp-block-getwid-tabs__nav-link a {
+  color: #000;
+}
+
+.catalogsearchtabs .wp-block-getwid-tabs__title {
+	font-size: 14px;
+}
+
+.font-14 {
+	font-size: 14px;
+}
+
+.catalogsearchtabs .wp-block-getwid-tabs__nav-link {
+	margin:0;
+	border: 1px solid #eeece8;
+	border-bottom: 1px solid #eeece8;
+}
+
+.catalogsearchtabs .wp-block-getwid-tabs__tab-content {
+	padding-top:0;
+}
+
+.catalogsearchtabs p {
+	font-size: 14px;
+}
+
+.catalogsearchtabs .wp-block-getwid-tabs__nav-link:hover {
+    border-color: #a32638;
+}
+/* end customizations to Catalog search box on home page */ 
+
+.biggergap {
+	gap: 2.5em !important;
+}
+
+#post-10288 {
+	margin-bottom: 0;
+}
+
+.wp-block-quote {
+    border-left: 0.25em solid;
+    margin: 0 0 1.75em;
+    padding-left: 1em;
+}
+
+/* for Amos Kennedy archive pages */
+.metadata-type-core_title, .metadata-type-text, .metadata-type-compound, .metadata-type-selectbox {
+    float: left;
+    margin-left: 30px;
+	  max-width: 300px;
+}
+
+.attachment-large {
+    float: left;
+}
+
+.tnc_col_10000_item-template-default p {
+    margin-bottom: 1em !important;
+}
+
+.tnc_col_10000_item-template-default h3 {
+    margin: 0 !important;
+}
+
+.tainacan-masonry-container .tainacan-masonry-item .metadata-title {
+    display: none;
+}
